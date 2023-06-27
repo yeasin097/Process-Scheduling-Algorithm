@@ -1,0 +1,7 @@
+1.	First Come First Serve (FCFS) Scheduling Algorithm
+2.	Non-Preemptive Shortest Job First (SJF) Scheduling Algorithm
+3.	Preemptive Shortest Job First (SJF) Scheduling Algorithm
+4.	Non-Preemptive Priority Scheduling Algorithm
+5.	Preemptive Priority Scheduling Algorithm
+6.	Round Robin Scheduling Algorithm
+7.	Your Own Scheduling Algorithm
